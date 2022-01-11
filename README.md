@@ -1,3 +1,3 @@
 #tic-tac-toe
 
-In the above #tic-tac-toe.py python file how to make a tic-tac-toe game that can be played on terminal is given.
+In the above #tic-tac-toe.py python file how to make a tic-tac-toe game that can be played on terminal is shown.
